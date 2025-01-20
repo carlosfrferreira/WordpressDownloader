@@ -79,8 +79,9 @@ class WordpressDownloader:
         Deletes the downloaded WordPress plugins if the tool is configured to do so.
         :param should_clean: true if the directory should be deleted and false otherwise
         """
+
         if should_clean:
-            print("cleaning folders...")
+            print("deleting plugins folder...")
             shutil.rmtree(self.PLUGINS_FOLDER)
             print("current directory clean")
         else:
