@@ -2,7 +2,7 @@
 
 ### Little helper tool for the [Wordfence Intelligence Bug Bounty Program](https://www.wordfence.com/threat-intel/bug-bounty-program/).
 
-**Intendended use:** Download any number of plugins with any number of minimum installations. You can then use any SAST tool locally for an initial triage on the downloaded plugins.
+**Intended use:** Download any number of plugins with any number of minimum installations. You can then use any SAST tool locally for an initial triage on the downloaded plugins.
 
 ## Installation
 ```
